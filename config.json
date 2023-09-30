@@ -1,0 +1,64 @@
+{
+  "exchange rates and countries": [
+    {
+      "country": "UK",
+      "exchange_rate": 1
+    },
+    {
+      "country": "USA",
+      "exchange_rate": 1.22
+    },
+    {
+      "country": "UAE",
+      "exchange_rate": 4.48
+    },
+    {
+      "country": "Saudi",
+      "exchange_rate": 4.57
+    },
+    {
+      "country": "Japan",
+      "exchange_rate": 182.21
+    },
+    {
+      "country": "Hong Kong",
+      "exchange_rate": 9.55
+    },
+    {
+      "country": "South Korea",
+      "exchange_rate": 1650
+    },
+    {
+      "country": "Australia",
+      "exchange_rate": 1.88
+    },
+    {
+      "country": "Canada",
+      "exchange_rate": 1.65
+    },
+    {
+      "country": "Europe",
+      "exchange_rate": 1.15
+    },
+    {
+      "country": "Qatar",
+      "exchange_rate": 4.44
+    },
+    {
+      "country": "ROW",
+      "exchange_rate": 1.15
+    },
+    {
+      "country": "Mexico",
+      "exchange_rate": 21.25
+    }
+  ],
+  "identifier column": "Item ID",
+  "price column": "Price",
+  "date column": "Date",
+  "column search radius": 1000,
+  "none tolerance": 5,
+  "output suffix": " export.xlsx",
+  "customer number prefix": "Shopify ",
+  "test coverage": 0.1
+}
