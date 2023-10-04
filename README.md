@@ -12,7 +12,7 @@ all caveats for generating an appropriate export file when given the initial fil
 ***
 
 The executable in the 'dist' file runs a development version of the code. Features relating to API usage have been disabled due to security (The keys and URLs are REDACTED).
-Ensure the config.json file is in the same folder as the first file.
+Ensure the config.json file is in the same folder as the .exe file when running. 
 
 ***
 
